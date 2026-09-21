@@ -1,0 +1,8 @@
+.env
+influxdb_data/
+postgres_data/
+__pycache__/
+.pytest_cache/
+*.pyc
+venv/
+users.db
